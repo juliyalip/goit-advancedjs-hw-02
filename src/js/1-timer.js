@@ -18,7 +18,7 @@ const options = {
     enableTime: true,
     time_24hr: true,
     allowInput: true,
-    altInput: false,
+
     defaultDate: new Date(),
     minuteIncrement: 1,
     onClose(selectedDates) {

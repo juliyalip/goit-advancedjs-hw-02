@@ -9,6 +9,12 @@
   transition: border-color 0.2s ease;
 }
 
+.picker-wrap{
+  display: flex;
+  gap: 8px;
+  margin-top: 30px;
+}
+
 #datetime-picker:hover {
   border-color: #000;
 }
